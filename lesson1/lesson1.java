@@ -1,7 +1,7 @@
-package com.company.lesson1;
+package lesson1;
 import java.util.Scanner;
 
-public class Main {
+public class lesson1 {
 
 	public static void main(String[] args) {
 	Integer a = 10;
